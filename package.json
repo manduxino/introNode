@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manduxino/introNode/issues"
   },
-  "homepage": "https://github.com/manduxino/introNode#readme"
+  "homepage": "https://github.com/manduxino/introNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
